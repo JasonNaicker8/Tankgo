@@ -4,8 +4,8 @@ Designed, Created and Implemented an Automated Robot concept chassis to deliver 
 Time table for the project was 3 months, with a team of 4 people.
 
 _By:_
-_Jason Naicker
-Adrian Aguayo
-Yousef El Shenawy
+_Jason Naicker,
+Adrian Aguayo,
+Yousef El Shenawy,
 Ayush Raj_
 
